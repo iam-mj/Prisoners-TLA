@@ -2,3 +2,6 @@
 states/
 Prisoners_trace*
 Prisoners.out
+*.o
+*.hi
+*.exe
